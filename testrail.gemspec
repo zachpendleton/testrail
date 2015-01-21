@@ -5,7 +5,7 @@ require 'testrail/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'testrail'
-  spec.version       = Testrail::VERSION
+  spec.version       = TestRail::VERSION
   spec.authors       = ['Zach Pendleton']
   spec.email         = ['zachpendleton@gmail.com']
   spec.summary       = %q{A gem wrapper for the Gurock TestRail client}
