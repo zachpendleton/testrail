@@ -1,5 +1,4 @@
 require "testrail/version"
+require "testrail/api_client"
 
-module Testrail
-  # Your code goes here...
-end
+module TestRail; end
