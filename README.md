@@ -1,7 +1,7 @@
 # TestRail
 
-While the (TestRail)[http://www.gurock.com/testrail/] Ruby client for their
-V2 API _is_ available (on Github)[https://github.com/gurock/testrail-api],
+While the [TestRail](http://www.gurock.com/testrail/) Ruby client for their
+V2 API _is_ available [on Github](https://github.com/gurock/testrail-api),
 it isn't available as a gem. Ain't nobody want to be copying and pasting API
 clients into their projects.
 
@@ -22,4 +22,4 @@ And then execute:
 
 ## Usage
 
-Read more about Gurock's client over at (their repo)[https://github.com/gurock/testrail-api].
+Read more about Gurock's client over at [their repo](https://github.com/gurock/testrail-api).
