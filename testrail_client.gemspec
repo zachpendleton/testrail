@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'testrail/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'testrail'
+  spec.name          = 'testrail_client'
   spec.version       = TestRail::VERSION
   spec.authors       = ['Zach Pendleton']
   spec.email         = ['zachpendleton@gmail.com']
